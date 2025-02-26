@@ -57,7 +57,7 @@ This project analyzes Walmart's sales data to identify trends, seasonal patterns
 
 ## 📈 Google Looker Dashboard
 
-[🔗 View Interactive Dashboard](#)
+[🔗 View Interactive Dashboard](https://lookerstudio.google.com/s/lrE5YhktETY)
 
 ---
 
@@ -119,4 +119,4 @@ Este proyecto analiza los datos de ventas de Walmart para identificar tendencias
 
 ## 📈 Dashboard en Google Looker
 
-[🔗 Ver Dashboard Interactivo](#)
+[🔗 Ver Dashboard Interactivo](https://lookerstudio.google.com/s/lrE5YhktETY)
